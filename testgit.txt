@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 recomis nou
+=======
+al patrulea commit
+>>>>>>> master
